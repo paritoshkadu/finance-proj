@@ -1,3 +1,3 @@
 # finance-pro
 
-#tis is quiet good project
+#this is quiet good project
